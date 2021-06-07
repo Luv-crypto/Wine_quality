@@ -2,7 +2,7 @@ Created on 7 June, 2021
 
 Author: Love Fadia
 
-The code above predicts the Insurace prices for the patients based on the features given in the Dataset The project is organized as follows
+The code above predicts the quality of wine based on the features given in the Dataset The project is organized as follows
  
  1) Data vIsualization and cleaning
  2) Train-test split
